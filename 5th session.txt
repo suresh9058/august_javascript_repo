@@ -1,0 +1,67 @@
+Git 
+
+1. we need to have github account (https://github.com/)
+2. we need to create a repo in order to push and pull our codebase
+3. Download and install git https://git-scm.com/downloads
+
+
+4. Once he clone the repo, we need to work on any features and then commit code for local 
+then we need to push the code base to repo
+
+5. to get the latest we will do git pull(u will get latest code from remote repo).
+
+functions
+---------
+1. functions are main building blocks
+2. Allow not to repeat the code 
+
+// function declaration
+function funName(a1,a2,a3...an) { // argument
+	... function body 
+}
+
+
+// function calling
+funName(p1,p2,p3,..pn); // parameter
+
+100employee
+
+function calcIncomeTax(salary, slab) {
+	......
+	return tax;
+}
+
+incomeTax(50000, 10);
+
+var userName;
+
+function naming 
+
+function getUserName
+set
+createUser
+checkTheAge
+
+one function - one action 
+
+function declaration vs function expression
+Uncaught ReferenceError: Cannot access 'sum' before initialization
+let age=40;
+if(40>70) { // 40>70==> boolean 
+// senior some benifit	
+} else {
+	// some other logic 
+}
+
+if() {
+	
+}
+
+javascript falsy values 
+false, 0, null, undefined, NaN
+
+if(NaN) { // 5-5
+// senior some benifit	
+} else {
+	// some other logic 
+}

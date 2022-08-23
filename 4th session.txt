@@ -1,0 +1,49 @@
+JavaScript Objects
+------------------
+Object - collection of various data types
+
+let user = {
+	name: "rakesh",
+	age:10,
+	id:123,
+}
+
+let user = new Object(); // object constructor syntax
+let user = {}; // object literal syntax
+
+varaible rule naming
+
+// for..in loop for Objects
+ 
+Array
+------
+Creating an empty array
+
+let arr= new Array();
+
+let arr = [];
+
+Arrays are used to store ordered collection of data
+
+Array index starts with zero
+for..of loop for Array
+
+// length property 
+actually not the count of values in an array, but greatest numberic index + 1 as length
+
+difference between == vs ===
+== -- value compared
+===-- value and type is compared
+
+type coresion
+
+1=="1" --> true
+
+1==="1" --> false
+fruits
+
+How to make the array empty?
+
+push
+pop
+slice vs splice

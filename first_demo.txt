@@ -1,0 +1,42 @@
+17/08/2022 Reactjs Demo
+-----------------------
+
+Pre
+1. HTML
+2. CSS
+3. JavaScript
+
+
+Unit 1
+-------
+
+What is ReactJS?
+Reactjs is javascript library this to develop the web application
+
+Why Reactjs?
+Facebook (Meta) 
+DOM - Document Object Model
+For every action u do DOM will be reconstruction
+1. again the html elements first to bottom
+2. css styles should applied
+3. javascript eventts should be added to html elements
+
+Something in 
+ReactJS
+Virtual DOM
+
+Why the name React JS?
+
+JSX - convert the html element in to react component
+
+1. Mon - Fri
+2. 8:30 AM 
+3. softcopy material 
+4. recorded video for 6months
+5. telegram group(exercise task doubts).
+6. 3 classes free
+7. Asokit placement 
+8. 7000rs
+
+
+50% JavaScript 

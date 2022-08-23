@@ -1,0 +1,50 @@
+html
+----
+https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML
+https://www.w3schools.com/html/exercise.asp
+https://www.w3schools.com/html/html_examples.asp
+
+CSS
+---
+https://www.w3schools.com/css/css_quiz.asp
+https://www.w3schools.com/css/css_examples.asp
+https://www.w3schools.com/css/css_exercises.asp
+
+JavaScript?
+Interacting with application 
+
+Why the name JavaScript
+script -- function or program 
+LiveScript -- 
+
+Java popular 
+
+JavaScript
+
+1. Editor or IDE (Integrated Development Env)
+	Sublime text
+	Atom
+	Brackets
+	webstorm
+	VS Code (recom)
+	https://code.visualstudio.com/download
+	
+2. Browser is used here for watching the output
+	We need the browser to execute our codebase
+	firefox
+	safari
+	IE edge
+	Chrome (recom)
+    https://www.google.com/chrome/?brand=CHBD&gclid=CjwKCAjwo_KXBhAaEiwA2RZ8hOOBT4tki8babRBMhUJT7n7P-0o1QsEmNwAwRxjikwGQLANUwTd2bBoCE8UQAvD_BwE&gclsrc=aw.ds
+	
+Each and every browser will have its own javascript engine
+
+Ways to write javascript code
+1.   <script></script>
+2. external file u can include that as path in the script tag
+
+1. remove the over head of saving the file use File->Auto Save
+2. remove the over head of refresh the browser for every change
+	in vs code goto extensions-> search for live server-> install the extensions-
+
+Which is the best place to put the javascript?

@@ -1,0 +1,133 @@
+JavaScript Variable & data types
+--------------------------------
+Variable is a named storage for data
+variables are used to store the information
+
+Rules to follow when using variables
+1. variables names should only contain letters, digits, symbols($) dollar and (_) underscore
+2. first character must not be digits(1,2,3,...)
+3. variables names should be in camelCase
+
+let username;
+let user_name;
+let userName; //  
+
+declaring the variable
+let message;
+
+// initialization
+message = "JavaScript";
+
+let message = "JavaScript";
+
+let user = "rakesh", age=32, message = "JS";
+
+let user="rakesh";
+let age=32;
+let message="JS";
+
+let $=3; // valid
+let my-name; // invalid
+let _=2; // valid
+let 1a=4;// invalid
+
+variable names are case sensitive
+let apple;
+let aPple;
+
+Should not user reserved words
+let date=new Date();
+let let=10; // invalid
+let return = 20; // invalid
+https://www.w3schools.com/js/js_reserved.asp
+
+Data types
+----------
+let message: string = "Reactjs"; // string 
+
+
+message = 10; // number
+
+message = new Date(); // 
+
+JavaScript is a dynamically Typed  
+TypeScript static type checking
+
+10+10 = 20 // add
+10+"10"="1010" // concatenation
+ typeof 
+ 
+1. Number Type
+let n=123;
+let m=123.45;
+
+typeof variable 
+
+2. BigInt
+2^53-1 and -(2^53-1) range of a number type
+
+let x = 3542378957234852738572348548095834968958945n;
+
+3. string 
+let a="hello";
+let b='hello';
+let c=`hello`;// template strings literal
+
+Interview Question 
+let a=10;
+typeof typeof a;//
+
+typeof 'number';// string
+
+4. boolean 
+true or false
+ if (10>1) {
+	
+ }
+ 
+5. undefined
+let a;
+console.log(a);
+IN JavaScript if u declare a variable and not assign any value to it'
+then it will hold undefined in it 
+let a;
+typeof a;
+'undefined'
+
+6. null
+In JavaScript null means "reference to non-existing object"
+let user = {};
+
+user=null;
+let user=null;
+typeof user;
+'object'
+
+7. Object
+
+let user = {
+	name: "rakesh",
+	age:10,
+	id:123,
+}
+
+let fruit = [ {
+	name: "rakesh",
+	age:10,
+	id:123,
+}, {
+	name: "rakesh",
+	age:10,
+	id:123,
+}]
+
+function and array also consider objects
+
+
+
+
+
+
+
+
+
