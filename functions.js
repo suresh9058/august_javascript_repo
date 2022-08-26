@@ -11,3 +11,5 @@ console.log(sum(10,20));// Uncaught ReferenceError: Cannot access 'sum' before i
 let sum = function(a,b) {
     return a+b;
 }
+
+// console.log(sum(10,20));

@@ -1,0 +1,43 @@
+Difference var, let and const
+loops 
+
+
+while, for 
+Loops are a way to repeat the same code multiple times.
+// initialization, condition, increment/decrement
+
+Objects for..in loop
+Array for..of loop
+
+Difference var, let and const
+1. hoisting 
+2. scope/memory
+3. redeclare/update
+
+Hoisting means it is a mechanism where it moves the variable declarations & function declarations to the top of its nearest scope
+
+var supports hoisting
+var is old school
+var a=10;
+
+let, const doesn't hositing
+
+let and const
+let it can be modified
+
+let a=10;
+a =12;
+
+const ORG_NAME = "TCS";
+const arr = [1,2,3,4]; //#abcdef121231
+
+2. scope/memory
+	var is function level scope
+	let/const block level scope
+
+3. redeclare/ update
+
+var supports redeclare/ and updating
+let support updating not redeclaration
+const no redeclare/ no update
+
