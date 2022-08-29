@@ -1,0 +1,21 @@
+Destructuring Objects and Array
+-------------------------------
+Objects
+Extracting the property from an object and assigning them to variables.
+
+Variable names should match with property names of the object
+
+const mobileNumber = user.mobileNumber === undefined ? defaultValue : user.mobileNumber;
+const varName = condition ? "if true this will execute": "if it is false this is execute";
+
+ternary operator
+conditional operator
+
+swap the variables with out using the temp variable
+//  swap variable
+// a=10, b=20
+// logic
+// a=20, b=10
+
+Optional Chaining
+
